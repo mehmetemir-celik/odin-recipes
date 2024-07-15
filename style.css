@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+ol li{
+    text-align: left;
+}
+.homerecipelinks{
+    text-align: left;
+}
+
+
+h1,
+h3{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+p,
+li{
+    font-family: "Courier New", monospace;
+}
+
+
+.crb{
+    color: orange;
+}
+.swg{
+    color: red;
+}
+.rct{
+    color: green;
+}
+.crbb{
+    background-color: rgb(151, 64, 64);
+}
+.swgb{
+    background-color: rgb(37, 97, 37);
+}
+.rctb{
+    background-color: rgb(190, 177, 134);
+}
+
+
+img{
+    height: 300px;
+    width: auto;
+}
